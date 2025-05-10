@@ -120,7 +120,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2 relative">
               <div className="relative bg-white p-4 rounded-lg shadow-lg transform rotate-3 z-10">
-                <img src="/placeholder.svg?height=400&width=600" alt="Koleksi kue KuewQu" className="rounded-lg" />
+                <img src="/bg-kuewqq.jpg?height=400&width=600" alt="Koleksi kue KuewQu" className="rounded-lg" />
               </div>
               <div className="absolute top-6 left-6 right-6 bottom-6 bg-gradient-to-r from-pink-300 to-purple-300 rounded-lg transform -rotate-3"></div>
               <FloatingElement className="absolute -bottom-10 -right-10 w-16 h-16 opacity-70" duration={4} delay={1}>
